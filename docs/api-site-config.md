@@ -25,7 +25,7 @@ baseUrl for your site. This can also be considered the path after the host. For 
 
 Color configurations for the site.
 
-- `primaryColor` is the color used the header navigation bar and sidebars.
+- `primaryColor` is the color used for the header navigation bar and sidebars.
 - `secondaryColor` is the color seen in the second row of the header navigation bar when the site window is narrow (including on mobile).
 - Custom color configurations can also be added. For example, if user styles are added with colors specified as `$myColor`, then adding a `myColor` field to `colors` will allow you to easily configure this color.
 
